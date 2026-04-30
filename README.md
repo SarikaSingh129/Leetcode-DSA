@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0027-remove-element) |
 | [1656-design-an-ordered-stream](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1656-design-an-ordered-stream) |
 | [1929-concatenation-of-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [1656-design-an-ordered-stream](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1656-design-an-ordered-stream) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
