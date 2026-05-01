@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0396-rotate-function](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [1656-design-an-ordered-stream](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1656-design-an-ordered-stream) |
 | [1929-concatenation-of-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [0396-rotate-function](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0396-rotate-function) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0396-rotate-function](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0396-rotate-function) |
 <!---LeetCode Topics End-->
