@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0396-rotate-function](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [1656-design-an-ordered-stream](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1656-design-an-ordered-stream) |
@@ -37,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0788-rotated-digits) |
 ## Dynamic Programming
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
