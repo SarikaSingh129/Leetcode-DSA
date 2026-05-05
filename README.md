@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0061-rotate-list) |
 ## Sorting
 |  |
 | ------- |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
