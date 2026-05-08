@@ -11,6 +11,7 @@
 | [1656-design-an-ordered-stream](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1656-design-an-ordered-stream) |
 | [1861-rotating-the-box](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3660-jump-game-ix) |
 ## Simulation
 |  |
@@ -21,6 +22,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [1656-design-an-ordered-stream](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1656-design-an-ordered-stream) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Design
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 | [0048-rotate-image](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0788-rotated-digits) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +71,12 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0061-rotate-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
