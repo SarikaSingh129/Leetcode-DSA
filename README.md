@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0396-rotate-function](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [1306-jump-game-iii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1345-jump-game-iv) |
 | [1656-design-an-ordered-stream](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1656-design-an-ordered-stream) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [1345-jump-game-iv](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1345-jump-game-iv) |
 | [1656-design-an-ordered-stream](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1656-design-an-ordered-stream) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1345-jump-game-iv) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
