@@ -20,6 +20,7 @@
 | [1929-concatenation-of-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 | [2540-minimum-common-value](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3660-jump-game-ix) |
 ## Simulation
@@ -36,6 +37,7 @@
 | [1656-design-an-ordered-stream](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1656-design-an-ordered-stream) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Design
 |  |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1306-jump-game-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
