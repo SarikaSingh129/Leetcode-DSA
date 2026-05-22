@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -114,6 +115,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2540-minimum-common-value) |
