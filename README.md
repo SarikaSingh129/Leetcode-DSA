@@ -13,6 +13,7 @@
 | [0396-rotate-function](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [1306-jump-game-iii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1345-jump-game-iv) |
 | [1656-design-an-ordered-stream](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1656-design-an-ordered-stream) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [1340-jump-game-v](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Math
 |  |
@@ -75,6 +77,7 @@
 | ------- |
 | [0396-rotate-function](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0788-rotated-digits) |
+| [1340-jump-game-v](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1340-jump-game-v) |
 | [3660-jump-game-ix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3660-jump-game-ix) |
 ## String
 |  |
