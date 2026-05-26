@@ -79,11 +79,13 @@
 | [0396-rotate-function](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1871-jump-game-vii) |
 | [3660-jump-game-ix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3660-jump-game-ix) |
 ## String
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0796-rotate-string) |
+| [1871-jump-game-vii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String Matching
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1871-jump-game-vii) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,4 +140,8 @@
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
