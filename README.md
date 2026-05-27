@@ -44,6 +44,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Design
 |  |
@@ -88,6 +89,7 @@
 | [1871-jump-game-vii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String Matching
 |  |
 | ------- |
