@@ -25,6 +25,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3660-jump-game-ix) |
 ## Simulation
@@ -88,6 +89,7 @@
 | [0796-rotate-string](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0796-rotate-string) |
 | [1871-jump-game-vii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String Matching
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3093-longest-common-suffix-queries) |
 ## Sliding Window
 |  |
 | ------- |
