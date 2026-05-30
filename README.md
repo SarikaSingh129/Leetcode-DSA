@@ -26,6 +26,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3660-jump-game-ix) |
@@ -134,6 +135,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3161-block-placement-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -151,4 +153,12 @@
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1871-jump-game-vii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
