@@ -21,6 +21,7 @@
 | [1861-rotating-the-box](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
+| [2126-destroying-asteroids](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2126-destroying-asteroids) |
 | [2540-minimum-common-value](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -70,6 +71,7 @@
 | [0217-contains-duplicate](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [1340-jump-game-v](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2126-destroying-asteroids](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2126-destroying-asteroids) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2126-destroying-asteroids](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2126-destroying-asteroids) |
 ## Prefix Sum
 |  |
 | ------- |
