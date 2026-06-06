@@ -25,6 +25,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3093-longest-common-suffix-queries) |
@@ -142,6 +143,7 @@
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1871-jump-game-vii) |
+| [2574-left-and-right-sum-differences](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
 |  |
 | ------- |
