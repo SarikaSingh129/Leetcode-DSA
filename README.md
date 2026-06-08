@@ -23,6 +23,7 @@
 | [1929-concatenation-of-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -40,6 +41,7 @@
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -68,6 +70,7 @@
 | [0027-remove-element](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
