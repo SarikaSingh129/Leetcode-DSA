@@ -37,6 +37,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -184,4 +186,9 @@
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3691-maximum-total-subarray-value-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
