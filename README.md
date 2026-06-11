@@ -93,6 +93,7 @@
 | [0396-rotate-function](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0788-rotated-digits) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Dynamic Programming
 |  |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1306-jump-game-iii) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -191,4 +193,8 @@
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3691-maximum-total-subarray-value-ii) |
+## Tree
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
