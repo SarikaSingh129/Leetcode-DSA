@@ -32,6 +32,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -94,6 +95,7 @@
 | [0788-rotated-digits](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0788-rotated-digits) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Dynamic Programming
 |  |
@@ -102,6 +104,7 @@
 | [0788-rotated-digits](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1871-jump-game-vii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3660-jump-game-ix) |
 ## String
 |  |
@@ -167,10 +170,12 @@
 | ------- |
 | [1306-jump-game-iii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1306-jump-game-iii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Trie
 |  |
 | ------- |
@@ -197,4 +202,5 @@
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 <!---LeetCode Topics End-->
