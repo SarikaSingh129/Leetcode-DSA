@@ -105,6 +105,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [1871-jump-game-vii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/1871-jump-game-vii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3660-jump-game-ix) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/SarikaSingh129/Leetcode-DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## String
 |  |
 | ------- |
